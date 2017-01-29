@@ -35,3 +35,4 @@ for(i=0;i<n;i++)
 printf("\n %d",a[i]);
 }
 
+This is works good for array size less then 10 bytes if array size is increased then we have to dynamically define array size
